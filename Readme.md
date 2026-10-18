@@ -1,4 +1,4 @@
-# 🩺 MedNexus
+# 🩺 CHIKITSALYA
 
 ### *Because every second matters. Every detail counts.*
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌍 The Story Behind MedNexus
+## 🌍 The Story Behind CHIKITSALYA
 
 Imagine a person being rushed to a hospital after a serious road accident.
 
@@ -32,9 +32,9 @@ But right now, none of that information is available when it matters most.
 
 **What if their medical history could help speak for them when they cannot speak for themselves?**
 
-That's the idea behind **MedNexus**.
+That's the idea behind **CHIKITSALYA**.
 
-MedNexus envisions a connected healthcare platform that brings together a person's medical journey, uses AI to make important information easier to understand, and helps authorised healthcare professionals access relevant information during critical situations.
+CHIKITSALYA envisions a connected healthcare platform that brings together a person's medical journey, uses AI to make important information easier to understand, and helps authorised healthcare professionals access relevant information during critical situations.
 
 It isn't just about digitising medical documents.
 
@@ -44,9 +44,9 @@ It's about making sure that important medical information doesn't get lost betwe
 
 ---
 
-## 💡 What Is MedNexus?
+## 💡 What Is CHIKITSALYA?
 
-MedNexus is a proposed AI-powered healthcare and emergency identification platform built around a simple idea:
+CHIKITSALYA is a proposed AI-powered healthcare and emergency identification platform built around a simple idea:
 
 **A person's medical history should not be scattered across disconnected hospitals, forgotten documents, and incomplete conversations.**
 
@@ -61,7 +61,7 @@ It brings together four central capabilities:
 
 The longer-term vision includes interoperability with existing hospital systems, optional forensic identification support, and integration with appropriate digital health infrastructure.
 
-MedNexus is designed to complement existing healthcare systems rather than replace the hospitals and professionals that provide care.
+CHIKITSALYA is designed to complement existing healthcare systems rather than replace the hospitals and professionals that provide care.
 
 ---
 
@@ -73,7 +73,7 @@ An unidentified accident victim arrives at the emergency department.
 
 The patient cannot provide their name, medical history, or emergency contact details.
 
-With an appropriately authorised identification workflow, MedNexus could help the hospital:
+With an appropriately authorised identification workflow, CHIKITSALYA could help the hospital:
 
 * Investigate potential identity matches.
 * Retrieve relevant medical information once the identity and access conditions are sufficiently established.
@@ -91,7 +91,7 @@ Patients and family members cannot always recall every previous diagnosis, presc
 
 Sometimes they forget. Sometimes they don't understand which details matter. Sometimes records are unavailable.
 
-MedNexus aims to make significant historical information accessible to authorised clinicians, reducing dependence on memory alone.
+CHIKITSALYA aims to make significant historical information accessible to authorised clinicians, reducing dependence on memory alone.
 
 A clinician could review a patient's previous encounters, see the original documentation, and understand which information is confirmed, historical, conflicting, or still unverified.
 
@@ -99,7 +99,7 @@ A clinician could review a patient's previous encounters, see the original docum
 
 Discharge summaries, laboratory reports, prescriptions, and diagnostic reports can be misplaced.
 
-MedNexus provides a concept for maintaining a structured medical timeline linked to supporting documents.
+CHIKITSALYA provides a concept for maintaining a structured medical timeline linked to supporting documents.
 
 Instead of searching through folders of paperwork, an authorised user could navigate a patient's medical history by date, hospital, condition, or type of encounter.
 
@@ -109,7 +109,7 @@ A single hospital visit rarely tells the entire story.
 
 A patient might have visited three hospitals over several years, received different prescriptions, and undergone multiple investigations.
 
-MedNexus aims to bring relevant information together so clinicians can review the broader context of a patient's care.
+CHIKITSALYA aims to bring relevant information together so clinicians can review the broader context of a patient's care.
 
 The platform can highlight missing information and inconsistencies rather than presenting an incomplete history as a complete or verified account.
 
@@ -117,7 +117,7 @@ The platform can highlight missing information and inconsistencies rather than p
 
 An unidentified patient may be unable to provide contact details. In other cases, a deceased person may require formal identification.
 
-MedNexus envisions an identity-assistance workflow that can help authorised personnel investigate potential matches using permitted identity evidence.
+CHIKITSALYA envisions an identity-assistance workflow that can help authorised personnel investigate potential matches using permitted identity evidence.
 
 Verified emergency contacts may help reconnect an unidentified living patient with family.
 
@@ -127,7 +127,7 @@ A database match alone would never be treated as definitive proof of identity.
 
 ---
 
-# ✨ The Features That Make MedNexus Different
+# ✨ The Features That Make CHIKITSALYA Different
 
 ## 🧬 01. A Lifetime Medical Timeline
 
@@ -152,7 +152,7 @@ Each encounter should retain its source, date, contributing organisation, and ve
 
 Medical records can be lengthy, repetitive, and difficult to review under time pressure.
 
-MedNexus introduces an AI-assisted summarisation concept designed to turn relevant medical history into a concise, structured overview.
+CHIKITSALYA introduces an AI-assisted summarisation concept designed to turn relevant medical history into a concise, structured overview.
 
 Potential capabilities include:
 
@@ -209,7 +209,7 @@ For unidentified patients, any contact-search or notification workflow would ope
 
 ## 🕵️ 05. Identity Assistance for Unidentified and Deceased Persons
 
-MedNexus envisions a separate workflow for authorised identity investigations.
+CHIKITSALYA envisions a separate workflow for authorised identity investigations.
 
 Potential future capabilities include:
 
@@ -228,7 +228,7 @@ Formal identification would remain subject to applicable legal and forensic proc
 
 What happens when conventional identification becomes difficult or impossible?
 
-MedNexus explores an optional, consent-based DNA reference feature for potential future use in appropriate identification workflows.
+CHIKITSALYA explores an optional, consent-based DNA reference feature for potential future use in appropriate identification workflows.
 
 The concept prioritises:
 
@@ -249,7 +249,7 @@ The system will not require DNA participation as a condition for receiving healt
 
 A connected healthcare platform must protect the information it makes accessible.
 
-MedNexus is designed around the principle that **being able to identify a patient does not automatically mean being authorised to read their medical history**.
+CHIKITSALYA is designed around the principle that **being able to identify a patient does not automatically mean being authorised to read their medical history**.
 
 The proposed platform includes:
 
@@ -268,7 +268,7 @@ These controls are design goals that must be implemented and tested; their inclu
 
 ---
 
-# 🎯 Who Is MedNexus For?
+# 🎯 Who Is CHIKITSALYA For?
 
 | User                          | Potential benefit                                                                           |
 | ----------------------------- | ------------------------------------------------------------------------------------------- |
@@ -284,7 +284,7 @@ The platform is intended to support healthcare professionals and existing health
 
 ---
 
-# 🖥️ The MedNexus Experience
+# 🖥️ The CHIKITSALYA Experience
 
 The platform will have two complementary sides.
 
@@ -295,7 +295,7 @@ A polished, modern website that introduces the vision and explains how connected
 Planned sections:
 
 * An immersive landing page.
-* The problem MedNexus addresses.
+* The problem CHIKITSALYA addresses.
 * How the platform works.
 * Patient-focused features.
 * AI medical intelligence.
@@ -327,7 +327,7 @@ The clinical interface will prioritise readable information, clear source refere
 
 # 🛠️ Technology Stack
 
-MedNexus will use a modern web and AI stack designed for rapid prototyping and a potential path toward production.
+CHIKITSALYA will use a modern web and AI stack designed for rapid prototyping and a potential path toward production.
 
 ## Frontend
 
@@ -398,7 +398,7 @@ The technology stack may evolve as the project develops. Not every component wil
 # 🏗️ High-Level Architecture
 
 ```text
-                       MEDNEXUS
+                       CHIKITSALYA
                           |
               +-----------+-----------+
               |                       |
@@ -474,7 +474,7 @@ Identity evidence, genetic information, and medical records will receive separat
 
 # 🚀 Development Roadmap
 
-MedNexus will be developed in stages, starting with a convincing prototype and progressing toward a carefully validated healthcare application.
+CHIKITSALYA will be developed in stages, starting with a convincing prototype and progressing toward a carefully validated healthcare application.
 
 ## Phase 1 — The Foundation
 
@@ -555,7 +555,7 @@ MedNexus will be developed in stages, starting with a convincing prototype and p
 
 Healthcare information deserves a higher standard of protection.
 
-MedNexus is being designed with the following principles:
+CHIKITSALYA is being designed with the following principles:
 
 **Privacy by design:** Collect and retain only information needed for clearly defined purposes.
 
@@ -608,7 +608,7 @@ Claims about reduced complications or mortality would require appropriate clinic
 
 # 🌱 The Bigger Vision
 
-Today, MedNexus begins with a simple question:
+Today, CHIKITSALYA begins with a simple question:
 
 **What if a doctor could understand the important parts of a patient's medical history even when the patient cannot explain them?**
 
@@ -636,7 +636,7 @@ It is the context behind a diagnosis, the details behind a treatment decision, a
 
 # 🤝 Potential Collaborations
 
-MedNexus could eventually benefit from collaboration with:
+CHIKITSALYA could eventually benefit from collaboration with:
 
 * Hospitals and healthcare networks.
 * Electronic medical record providers.
@@ -655,7 +655,7 @@ Organisations interested in exploring the concept could contribute to research, 
 
 # 👨‍💻 Development Philosophy
 
-MedNexus is being developed around three priorities:
+CHIKITSALYA is being developed around three priorities:
 
 **1. Useful before complicated.** Build a coherent, working healthcare experience before introducing unnecessary infrastructure.
 
@@ -675,12 +675,12 @@ The ambition is large, but the first milestone is achievable: demonstrate how co
 
 **Intended direction:** A healthcare interoperability and AI platform that could eventually support carefully governed real-world deployments.
 
-**Important:** MedNexus is a development project, not a medical device or an operational emergency service. It must not be used to make real clinical decisions or identify real patients.
+**Important:** CHIKITSALYA is a development project, not a medical device or an operational emergency service. It must not be used to make real clinical decisions or identify real patients.
 
 ---
 
 <p align="center">
-  <strong>MedNexus</strong>
+  <strong>CHIKITSALYA</strong>
   <br>
   <em>Because every second matters. Every detail counts.</em>
   <br><br>
